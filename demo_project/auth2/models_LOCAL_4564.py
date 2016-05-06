@@ -16,15 +16,11 @@ class User(AbstractUser):
     def __str__(self):
         return self.username
 
-
 # angel
 
 Franklin probando .. 
 
-
 # angel
-
-# otra
 
 #Shiane
 class Persona(models.models):
