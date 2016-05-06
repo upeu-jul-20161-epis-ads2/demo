@@ -18,14 +18,9 @@ class User(AbstractUser):
 
 # angel
 
-# angel
-
 Franklin probando .. 
 
-
 # angel
-
-# otra
 
 #Shiane
 class Persona(models.models):
@@ -33,4 +28,3 @@ class Persona(models.models):
 	nombre=models.CharField(max_length=10)
 	def __str__(self):
 		return nombre
-# model Vladimir (NotThisTime...)

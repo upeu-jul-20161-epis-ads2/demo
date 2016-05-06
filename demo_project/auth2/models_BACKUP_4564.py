@@ -16,16 +16,12 @@ class User(AbstractUser):
     def __str__(self):
         return self.username
 
-# angel
-
+<<<<<<< HEAD
 # angel
 
 Franklin probando .. 
 
-
 # angel
-
-# otra
 
 #Shiane
 class Persona(models.models):
@@ -33,4 +29,10 @@ class Persona(models.models):
 	nombre=models.CharField(max_length=10)
 	def __str__(self):
 		return nombre
-# model Vladimir (NotThisTime...)
+=======
+"""
+Franklin probando .. 
+"""
+# angel
+# otra
+>>>>>>> 4a4c2824ab03e568dacdc1ed711a2aeb6ad55ee6

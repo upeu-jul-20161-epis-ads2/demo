@@ -16,7 +16,9 @@ class User(AbstractUser):
     def __str__(self):
         return self.username
 
-# angel
+<<<<<<< HEAD
+# model Vladimir (NotThisTime...)
+=======
 
 # angel
 
@@ -33,4 +35,4 @@ class Persona(models.models):
 	nombre=models.CharField(max_length=10)
 	def __str__(self):
 		return nombre
-# model Vladimir (NotThisTime...)
+>>>>>>> 7b4e81c801ae11f21db8c6d43b9a16a222b0c331
