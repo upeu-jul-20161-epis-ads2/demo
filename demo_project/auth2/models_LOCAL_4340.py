@@ -16,12 +16,6 @@ class User(AbstractUser):
     def __str__(self):
         return self.username
 
-# angel
-
-Franklin probando .. 
-
-# angel
-
 #Shiane
 class Persona(models.models):
 	usuario=models.foreignKey(User)
