@@ -35,3 +35,5 @@ class Persona(models.models):
     def __str__(self):
         return nombre
 # Vladimir (NotThisTime...)
+
+# ################ subiendo tareas #############
